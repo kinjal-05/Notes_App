@@ -16,6 +16,18 @@ It uses **localStorage** to persist notes in the browser.
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Technologies Used
 
-/notes-app │── index.html # Main HTML file (UI) │── styles.css # CSS file for styling │── script.js # JavaScript logic (CRUD operations) │── delete.svg # Delete icon for notes │── edit.svg # Edit icon for notes └── README.md # Project documentation
+- **HTML** - Structure of the app  
+- **CSS** - Styling and layout  
+- **JavaScript** - Functionality (CRUD operations & search)  
+- **LocalStorage** - Data persistence  
+
+---
+
+## ⚙️ Installation & Usage
+
+### ⬇️ Clone the Repository  
+```sh
+git clone <repository-url>
+cd notes-app
