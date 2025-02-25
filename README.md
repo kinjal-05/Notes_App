@@ -31,3 +31,7 @@ It uses **localStorage** to persist notes in the browser.
 ```sh
 git clone <repository-url>
 cd notes-app
+```
+
+### ▶️ Open in Browser
+Simply open index.html in your preferred browser.
